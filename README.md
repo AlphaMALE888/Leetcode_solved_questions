@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AlphaMALE888/Leetcode_solved_questions/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/AlphaMALE888/Leetcode_solved_questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AlphaMALE888/Leetcode_solved_questions/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/AlphaMALE888/Leetcode_solved_questions/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AlphaMALE888/Leetcode_solved_questions/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/AlphaMALE888/Leetcode_solved_questions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
